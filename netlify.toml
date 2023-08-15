@@ -1,5 +1,4 @@
 [[redirects]]
     from = "/*"
-    to = "/ProfMatch.html"
+    to = "/index.html"
     status = 200
-    
