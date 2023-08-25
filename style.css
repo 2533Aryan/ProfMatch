@@ -14,6 +14,11 @@
     background-color: #D4CDE4;
   }
 
+  #heading-img {
+    width: 150px;
+    height: 150px;
+  }
+
   h1 {
     text-align: center;
     color: #3C003E;
